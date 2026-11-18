@@ -4,8 +4,8 @@
 
 Este guia reúne orientações práticas de segurança e produtividade digital para os clientes da agência InovaWeb. Nele você encontra dicas para criar senhas fortes e navegar com segurança na internet, além de uma lista de ferramentas gratuitas que ajudam na organização e nos estudos.
 
-## Conteúdo do repositório
+# Ferramentas Úteis e Gratuitas
 
-- `dicas-seguranca.md`: 4 dicas práticas de segurança digital
-- `ferramentas-uteis.md`: 3 ferramentas gratuitas de produtividade e estudo
-- `contatos-suporte.txt`: contatos fictícios do suporte da agência
+1. **Google Agenda** (calendar.google.com): organiza compromissos e prazos com lembretes.
+2. **Trello** (trello.com): quadros estilo kanban para gerenciar tarefas e projetos.
+3. **Khan Academy** (khanacademy.org): cursos gratuitos para reforçar os estudos.
